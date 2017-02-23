@@ -9,7 +9,19 @@ A collection of awesome resources related to reproducible research and open scie
 
 
 ##Services
+
+[Zenodo] (https://zenodo.org/)
+## Data Repositories
+[Dryad] (http://datadryad.org/)
+[Figshare] (https://figshare.com/)
+
+## For Institutions
 [Crossref Funder Registry] (https://www.crossref.org/services/funder-registry/)
+
+### Collaborative Writing
+[Sharelatex] (https://www.sharelatex.com)
+[Overleaf] (https://www.overleaf.com/)
+[Authorea] (https://www.authorea.com/)
 
 ##Computer Science
 
